@@ -1,0 +1,603 @@
+Creating AVL Nodes from key-value pairs (w/ padding): 28.000000
+ Obliviously sort Nodes based on their keys: Creating BST of 209714 Nodes: 36.000000
+Inserting in ORAM: 2208.000000
+Number of leaves:2097152
+depth:21
+block size is:128
+Initializing DORAM
+Setting Nodes Eviction ID
+Sorting
+Creating Buckets:0/8388608
+Creating Buckets:100000/8388608
+Creating Buckets:200000/8388608
+Creating Buckets:300000/8388608
+Creating Buckets:400000/8388608
+Creating Buckets:500000/8388608
+Creating Buckets:600000/8388608
+Creating Buckets:700000/8388608
+Creating Buckets:800000/8388608
+Creating Buckets:900000/8388608
+Creating Buckets:1000000/8388608
+Creating Buckets:1100000/8388608
+Creating Buckets:1200000/8388608
+Creating Buckets:1300000/8388608
+Creating Buckets:1400000/8388608
+Creating Buckets:1500000/8388608
+Creating Buckets:1600000/8388608
+Creating Buckets:1700000/8388608
+Creating Buckets:1800000/8388608
+Creating Buckets:1900000/8388608
+Creating Buckets:2000000/8388608
+Creating Buckets:2100000/8388608
+Creating Buckets:2200000/8388608
+Creating Buckets:2300000/8388608
+Creating Buckets:2400000/8388608
+Creating Buckets:2500000/8388608
+Creating Buckets:2600000/8388608
+Creating Buckets:2700000/8388608
+Creating Buckets:2800000/8388608
+Creating Buckets:2900000/8388608
+Creating Buckets:3000000/8388608
+Creating Buckets:3100000/8388608
+Creating Buckets:3200000/8388608
+Creating Buckets:3300000/8388608
+Creating Buckets:3400000/8388608
+Creating Buckets:3500000/8388608
+Creating Buckets:3600000/8388608
+Creating Buckets:3700000/8388608
+Creating Buckets:3800000/8388608
+Creating Buckets:3900000/8388608
+Creating Buckets:4000000/8388608
+Creating Buckets:4100000/8388608
+Creating Buckets:4200000/8388608
+Creating Buckets:4300000/8388608
+Creating Buckets:4400000/8388608
+Creating Buckets:4500000/8388608
+Creating Buckets:4600000/8388608
+Creating Buckets:4700000/8388608
+Creating Buckets:4800000/8388608
+Creating Buckets:4900000/8388608
+Creating Buckets:5000000/8388608
+Creating Buckets:5100000/8388608
+Creating Buckets:5200000/8388608
+Creating Buckets:5300000/8388608
+Creating Buckets:5400000/8388608
+Creating Buckets:5500000/8388608
+Creating Buckets:5600000/8388608
+Creating Buckets:5700000/8388608
+Creating Buckets:5800000/8388608
+Creating Buckets:5900000/8388608
+Creating Buckets:6000000/8388608
+Creating Buckets:6100000/8388608
+Creating Buckets:6200000/8388608
+Creating Buckets:6300000/8388608
+Creating Buckets:6400000/8388608
+Creating Buckets:6500000/8388608
+Creating Buckets:6600000/8388608
+Creating Buckets:6700000/8388608
+Creating Buckets:6800000/8388608
+Creating Buckets:6900000/8388608
+Creating Buckets:7000000/8388608
+Creating Buckets:7100000/8388608
+Creating Buckets:7200000/8388608
+Creating Buckets:7300000/8388608
+Creating Buckets:7400000/8388608
+Creating Buckets:7500000/8388608
+Creating Buckets:7600000/8388608
+Creating Buckets:7700000/8388608
+Creating Buckets:7800000/8388608
+Creating Buckets:7900000/8388608
+Creating Buckets:8000000/8388608
+Creating Buckets:8100000/8388608
+Creating Buckets:8200000/8388608
+Creating Buckets:8300000/8388608
+Adding Upper Levels Dummy Buckets:0/8388608
+Adding Upper Levels Dummy Buckets:100000/8388608
+Adding Upper Levels Dummy Buckets:200000/8388608
+Adding Upper Levels Dummy Buckets:300000/8388608
+Adding Upper Levels Dummy Buckets:400000/8388608
+Adding Upper Levels Dummy Buckets:500000/8388608
+Adding Upper Levels Dummy Buckets:600000/8388608
+Adding Upper Levels Dummy Buckets:700000/8388608
+Adding Upper Levels Dummy Buckets:800000/8388608
+Adding Upper Levels Dummy Buckets:900000/8388608
+Adding Upper Levels Dummy Buckets:1000000/8388608
+Adding Upper Levels Dummy Buckets:1100000/8388608
+Adding Upper Levels Dummy Buckets:1200000/8388608
+Adding Upper Levels Dummy Buckets:1300000/8388608
+Adding Upper Levels Dummy Buckets:1400000/8388608
+Adding Upper Levels Dummy Buckets:1500000/8388608
+Adding Upper Levels Dummy Buckets:1600000/8388608
+Adding Upper Levels Dummy Buckets:1700000/8388608
+Adding Upper Levels Dummy Buckets:1800000/8388608
+Adding Upper Levels Dummy Buckets:1900000/8388608
+Adding Upper Levels Dummy Buckets:2000000/8388608
+DORAM-init: 41678.000000
+Number of leaves:2097152
+depth:21
+block size is:128
+Initializing ORAM Buckets
+End of Initialization
+Creating AVL Nodes from key-value pairs (w/ padding): 15.000000
+ Obliviously sort Nodes based on their keys: Creating BST of 209714 Nodes: 58.000000
+Inserting in ORAM: 2387.000000
+Number of leaves:2097152
+depth:21
+block size is:128
+Initializing DORAM
+Setting Nodes Eviction ID
+Sorting
+Creating Buckets:0/8388608
+Creating Buckets:100000/8388608
+Creating Buckets:200000/8388608
+Creating Buckets:300000/8388608
+Creating Buckets:400000/8388608
+Creating Buckets:500000/8388608
+Creating Buckets:600000/8388608
+Creating Buckets:700000/8388608
+Creating Buckets:800000/8388608
+Creating Buckets:900000/8388608
+Creating Buckets:1000000/8388608
+Creating Buckets:1100000/8388608
+Creating Buckets:1200000/8388608
+Creating Buckets:1300000/8388608
+Creating Buckets:1400000/8388608
+Creating Buckets:1500000/8388608
+Creating Buckets:1600000/8388608
+Creating Buckets:1700000/8388608
+Creating Buckets:1800000/8388608
+Creating Buckets:1900000/8388608
+Creating Buckets:2000000/8388608
+Creating Buckets:2100000/8388608
+Creating Buckets:2200000/8388608
+Creating Buckets:2300000/8388608
+Creating Buckets:2400000/8388608
+Creating Buckets:2500000/8388608
+Creating Buckets:2600000/8388608
+Creating Buckets:2700000/8388608
+Creating Buckets:2800000/8388608
+Creating Buckets:2900000/8388608
+Creating Buckets:3000000/8388608
+Creating Buckets:3100000/8388608
+Creating Buckets:3200000/8388608
+Creating Buckets:3300000/8388608
+Creating Buckets:3400000/8388608
+Creating Buckets:3500000/8388608
+Creating Buckets:3600000/8388608
+Creating Buckets:3700000/8388608
+Creating Buckets:3800000/8388608
+Creating Buckets:3900000/8388608
+Creating Buckets:4000000/8388608
+Creating Buckets:4100000/8388608
+Creating Buckets:4200000/8388608
+Creating Buckets:4300000/8388608
+Creating Buckets:4400000/8388608
+Creating Buckets:4500000/8388608
+Creating Buckets:4600000/8388608
+Creating Buckets:4700000/8388608
+Creating Buckets:4800000/8388608
+Creating Buckets:4900000/8388608
+Creating Buckets:5000000/8388608
+Creating Buckets:5100000/8388608
+Creating Buckets:5200000/8388608
+Creating Buckets:5300000/8388608
+Creating Buckets:5400000/8388608
+Creating Buckets:5500000/8388608
+Creating Buckets:5600000/8388608
+Creating Buckets:5700000/8388608
+Creating Buckets:5800000/8388608
+Creating Buckets:5900000/8388608
+Creating Buckets:6000000/8388608
+Creating Buckets:6100000/8388608
+Creating Buckets:6200000/8388608
+Creating Buckets:6300000/8388608
+Creating Buckets:6400000/8388608
+Creating Buckets:6500000/8388608
+Creating Buckets:6600000/8388608
+Creating Buckets:6700000/8388608
+Creating Buckets:6800000/8388608
+Creating Buckets:6900000/8388608
+Creating Buckets:7000000/8388608
+Creating Buckets:7100000/8388608
+Creating Buckets:7200000/8388608
+Creating Buckets:7300000/8388608
+Creating Buckets:7400000/8388608
+Creating Buckets:7500000/8388608
+Creating Buckets:7600000/8388608
+Creating Buckets:7700000/8388608
+Creating Buckets:7800000/8388608
+Creating Buckets:7900000/8388608
+Creating Buckets:8000000/8388608
+Creating Buckets:8100000/8388608
+Creating Buckets:8200000/8388608
+Creating Buckets:8300000/8388608
+Adding Upper Levels Dummy Buckets:0/8388608
+Adding Upper Levels Dummy Buckets:100000/8388608
+Adding Upper Levels Dummy Buckets:200000/8388608
+Adding Upper Levels Dummy Buckets:300000/8388608
+Adding Upper Levels Dummy Buckets:400000/8388608
+Adding Upper Levels Dummy Buckets:500000/8388608
+Adding Upper Levels Dummy Buckets:600000/8388608
+Adding Upper Levels Dummy Buckets:700000/8388608
+Adding Upper Levels Dummy Buckets:800000/8388608
+Adding Upper Levels Dummy Buckets:900000/8388608
+Adding Upper Levels Dummy Buckets:1000000/8388608
+Adding Upper Levels Dummy Buckets:1100000/8388608
+Adding Upper Levels Dummy Buckets:1200000/8388608
+Adding Upper Levels Dummy Buckets:1300000/8388608
+Adding Upper Levels Dummy Buckets:1400000/8388608
+Adding Upper Levels Dummy Buckets:1500000/8388608
+Adding Upper Levels Dummy Buckets:1600000/8388608
+Adding Upper Levels Dummy Buckets:1700000/8388608
+Adding Upper Levels Dummy Buckets:1800000/8388608
+Adding Upper Levels Dummy Buckets:1900000/8388608
+Adding Upper Levels Dummy Buckets:2000000/8388608
+DORAM-init: 40149.000000
+Number of leaves:2097152
+depth:21
+block size is:128
+Initializing ORAM Buckets
+End of Initialization
+Creating AVL Nodes from key-value pairs (w/ padding): 22.000000
+ Obliviously sort Nodes based on their keys: Creating BST of 209714 Nodes: 223.000000
+Inserting in ORAM: 2429.000000
+Number of leaves:2097152
+depth:21
+block size is:128
+Initializing DORAM
+Setting Nodes Eviction ID
+Sorting
+Creating Buckets:0/8388608
+Creating Buckets:100000/8388608
+Creating Buckets:200000/8388608
+Creating Buckets:300000/8388608
+Creating Buckets:400000/8388608
+Creating Buckets:500000/8388608
+Creating Buckets:600000/8388608
+Creating Buckets:700000/8388608
+Creating Buckets:800000/8388608
+Creating Buckets:900000/8388608
+Creating Buckets:1000000/8388608
+Creating Buckets:1100000/8388608
+Creating Buckets:1200000/8388608
+Creating Buckets:1300000/8388608
+Creating Buckets:1400000/8388608
+Creating Buckets:1500000/8388608
+Creating Buckets:1600000/8388608
+Creating Buckets:1700000/8388608
+Creating Buckets:1800000/8388608
+Creating Buckets:1900000/8388608
+Creating Buckets:2000000/8388608
+Creating Buckets:2100000/8388608
+Creating Buckets:2200000/8388608
+Creating Buckets:2300000/8388608
+Creating Buckets:2400000/8388608
+Creating Buckets:2500000/8388608
+Creating Buckets:2600000/8388608
+Creating Buckets:2700000/8388608
+Creating Buckets:2800000/8388608
+Creating Buckets:2900000/8388608
+Creating Buckets:3000000/8388608
+Creating Buckets:3100000/8388608
+Creating Buckets:3200000/8388608
+Creating Buckets:3300000/8388608
+Creating Buckets:3400000/8388608
+Creating Buckets:3500000/8388608
+Creating Buckets:3600000/8388608
+Creating Buckets:3700000/8388608
+Creating Buckets:3800000/8388608
+Creating Buckets:3900000/8388608
+Creating Buckets:4000000/8388608
+Creating Buckets:4100000/8388608
+Creating Buckets:4200000/8388608
+Creating Buckets:4300000/8388608
+Creating Buckets:4400000/8388608
+Creating Buckets:4500000/8388608
+Creating Buckets:4600000/8388608
+Creating Buckets:4700000/8388608
+Creating Buckets:4800000/8388608
+Creating Buckets:4900000/8388608
+Creating Buckets:5000000/8388608
+Creating Buckets:5100000/8388608
+Creating Buckets:5200000/8388608
+Creating Buckets:5300000/8388608
+Creating Buckets:5400000/8388608
+Creating Buckets:5500000/8388608
+Creating Buckets:5600000/8388608
+Creating Buckets:5700000/8388608
+Creating Buckets:5800000/8388608
+Creating Buckets:5900000/8388608
+Creating Buckets:6000000/8388608
+Creating Buckets:6100000/8388608
+Creating Buckets:6200000/8388608
+Creating Buckets:6300000/8388608
+Creating Buckets:6400000/8388608
+Creating Buckets:6500000/8388608
+Creating Buckets:6600000/8388608
+Creating Buckets:6700000/8388608
+Creating Buckets:6800000/8388608
+Creating Buckets:6900000/8388608
+Creating Buckets:7000000/8388608
+Creating Buckets:7100000/8388608
+Creating Buckets:7200000/8388608
+Creating Buckets:7300000/8388608
+Creating Buckets:7400000/8388608
+Creating Buckets:7500000/8388608
+Creating Buckets:7600000/8388608
+Creating Buckets:7700000/8388608
+Creating Buckets:7800000/8388608
+Creating Buckets:7900000/8388608
+Creating Buckets:8000000/8388608
+Creating Buckets:8100000/8388608
+Creating Buckets:8200000/8388608
+Creating Buckets:8300000/8388608
+Adding Upper Levels Dummy Buckets:0/8388608
+Adding Upper Levels Dummy Buckets:100000/8388608
+Adding Upper Levels Dummy Buckets:200000/8388608
+Adding Upper Levels Dummy Buckets:300000/8388608
+Adding Upper Levels Dummy Buckets:400000/8388608
+Adding Upper Levels Dummy Buckets:500000/8388608
+Adding Upper Levels Dummy Buckets:600000/8388608
+Adding Upper Levels Dummy Buckets:700000/8388608
+Adding Upper Levels Dummy Buckets:800000/8388608
+Adding Upper Levels Dummy Buckets:900000/8388608
+Adding Upper Levels Dummy Buckets:1000000/8388608
+Adding Upper Levels Dummy Buckets:1100000/8388608
+Adding Upper Levels Dummy Buckets:1200000/8388608
+Adding Upper Levels Dummy Buckets:1300000/8388608
+Adding Upper Levels Dummy Buckets:1400000/8388608
+Adding Upper Levels Dummy Buckets:1500000/8388608
+Adding Upper Levels Dummy Buckets:1600000/8388608
+Adding Upper Levels Dummy Buckets:1700000/8388608
+Adding Upper Levels Dummy Buckets:1800000/8388608
+Adding Upper Levels Dummy Buckets:1900000/8388608
+Adding Upper Levels Dummy Buckets:2000000/8388608
+DORAM-init: 44254.000000
+Number of leaves:2097152
+depth:21
+block size is:128
+Initializing ORAM Buckets
+End of Initialization
+Creating AVL Nodes from key-value pairs (w/ padding): 22.000000
+ Obliviously sort Nodes based on their keys: Creating BST of 209714 Nodes: 285.000000
+Inserting in ORAM: 2491.000000
+Number of leaves:2097152
+depth:21
+block size is:128
+Initializing DORAM
+Setting Nodes Eviction ID
+Sorting
+Creating Buckets:0/8388608
+Creating Buckets:100000/8388608
+Creating Buckets:200000/8388608
+Creating Buckets:300000/8388608
+Creating Buckets:400000/8388608
+Creating Buckets:500000/8388608
+Creating Buckets:600000/8388608
+Creating Buckets:700000/8388608
+Creating Buckets:800000/8388608
+Creating Buckets:900000/8388608
+Creating Buckets:1000000/8388608
+Creating Buckets:1100000/8388608
+Creating Buckets:1200000/8388608
+Creating Buckets:1300000/8388608
+Creating Buckets:1400000/8388608
+Creating Buckets:1500000/8388608
+Creating Buckets:1600000/8388608
+Creating Buckets:1700000/8388608
+Creating Buckets:1800000/8388608
+Creating Buckets:1900000/8388608
+Creating Buckets:2000000/8388608
+Creating Buckets:2100000/8388608
+Creating Buckets:2200000/8388608
+Creating Buckets:2300000/8388608
+Creating Buckets:2400000/8388608
+Creating Buckets:2500000/8388608
+Creating Buckets:2600000/8388608
+Creating Buckets:2700000/8388608
+Creating Buckets:2800000/8388608
+Creating Buckets:2900000/8388608
+Creating Buckets:3000000/8388608
+Creating Buckets:3100000/8388608
+Creating Buckets:3200000/8388608
+Creating Buckets:3300000/8388608
+Creating Buckets:3400000/8388608
+Creating Buckets:3500000/8388608
+Creating Buckets:3600000/8388608
+Creating Buckets:3700000/8388608
+Creating Buckets:3800000/8388608
+Creating Buckets:3900000/8388608
+Creating Buckets:4000000/8388608
+Creating Buckets:4100000/8388608
+Creating Buckets:4200000/8388608
+Creating Buckets:4300000/8388608
+Creating Buckets:4400000/8388608
+Creating Buckets:4500000/8388608
+Creating Buckets:4600000/8388608
+Creating Buckets:4700000/8388608
+Creating Buckets:4800000/8388608
+Creating Buckets:4900000/8388608
+Creating Buckets:5000000/8388608
+Creating Buckets:5100000/8388608
+Creating Buckets:5200000/8388608
+Creating Buckets:5300000/8388608
+Creating Buckets:5400000/8388608
+Creating Buckets:5500000/8388608
+Creating Buckets:5600000/8388608
+Creating Buckets:5700000/8388608
+Creating Buckets:5800000/8388608
+Creating Buckets:5900000/8388608
+Creating Buckets:6000000/8388608
+Creating Buckets:6100000/8388608
+Creating Buckets:6200000/8388608
+Creating Buckets:6300000/8388608
+Creating Buckets:6400000/8388608
+Creating Buckets:6500000/8388608
+Creating Buckets:6600000/8388608
+Creating Buckets:6700000/8388608
+Creating Buckets:6800000/8388608
+Creating Buckets:6900000/8388608
+Creating Buckets:7000000/8388608
+Creating Buckets:7100000/8388608
+Creating Buckets:7200000/8388608
+Creating Buckets:7300000/8388608
+Creating Buckets:7400000/8388608
+Creating Buckets:7500000/8388608
+Creating Buckets:7600000/8388608
+Creating Buckets:7700000/8388608
+Creating Buckets:7800000/8388608
+Creating Buckets:7900000/8388608
+Creating Buckets:8000000/8388608
+Creating Buckets:8100000/8388608
+Creating Buckets:8200000/8388608
+Creating Buckets:8300000/8388608
+Adding Upper Levels Dummy Buckets:0/8388608
+Adding Upper Levels Dummy Buckets:100000/8388608
+Adding Upper Levels Dummy Buckets:200000/8388608
+Adding Upper Levels Dummy Buckets:300000/8388608
+Adding Upper Levels Dummy Buckets:400000/8388608
+Adding Upper Levels Dummy Buckets:500000/8388608
+Adding Upper Levels Dummy Buckets:600000/8388608
+Adding Upper Levels Dummy Buckets:700000/8388608
+Adding Upper Levels Dummy Buckets:800000/8388608
+Adding Upper Levels Dummy Buckets:900000/8388608
+Adding Upper Levels Dummy Buckets:1000000/8388608
+Adding Upper Levels Dummy Buckets:1100000/8388608
+Adding Upper Levels Dummy Buckets:1200000/8388608
+Adding Upper Levels Dummy Buckets:1300000/8388608
+Adding Upper Levels Dummy Buckets:1400000/8388608
+Adding Upper Levels Dummy Buckets:1500000/8388608
+Adding Upper Levels Dummy Buckets:1600000/8388608
+Adding Upper Levels Dummy Buckets:1700000/8388608
+Adding Upper Levels Dummy Buckets:1800000/8388608
+Adding Upper Levels Dummy Buckets:1900000/8388608
+Adding Upper Levels Dummy Buckets:2000000/8388608
+DORAM-init: 45651.000000
+Number of leaves:2097152
+depth:21
+block size is:128
+Initializing ORAM Buckets
+End of Initialization
+Creating AVL Nodes from key-value pairs (w/ padding): 25.000000
+ Obliviously sort Nodes based on their keys: Creating BST of 209714 Nodes: 314.000000
+Inserting in ORAM: 2618.000000
+Number of leaves:2097152
+depth:21
+block size is:128
+Initializing DORAM
+Setting Nodes Eviction ID
+Sorting
+Creating Buckets:0/8388608
+Creating Buckets:100000/8388608
+Creating Buckets:200000/8388608
+Creating Buckets:300000/8388608
+Creating Buckets:400000/8388608
+Creating Buckets:500000/8388608
+Creating Buckets:600000/8388608
+Creating Buckets:700000/8388608
+Creating Buckets:800000/8388608
+Creating Buckets:900000/8388608
+Creating Buckets:1000000/8388608
+Creating Buckets:1100000/8388608
+Creating Buckets:1200000/8388608
+Creating Buckets:1300000/8388608
+Creating Buckets:1400000/8388608
+Creating Buckets:1500000/8388608
+Creating Buckets:1600000/8388608
+Creating Buckets:1700000/8388608
+Creating Buckets:1800000/8388608
+Creating Buckets:1900000/8388608
+Creating Buckets:2000000/8388608
+Creating Buckets:2100000/8388608
+Creating Buckets:2200000/8388608
+Creating Buckets:2300000/8388608
+Creating Buckets:2400000/8388608
+Creating Buckets:2500000/8388608
+Creating Buckets:2600000/8388608
+Creating Buckets:2700000/8388608
+Creating Buckets:2800000/8388608
+Creating Buckets:2900000/8388608
+Creating Buckets:3000000/8388608
+Creating Buckets:3100000/8388608
+Creating Buckets:3200000/8388608
+Creating Buckets:3300000/8388608
+Creating Buckets:3400000/8388608
+Creating Buckets:3500000/8388608
+Creating Buckets:3600000/8388608
+Creating Buckets:3700000/8388608
+Creating Buckets:3800000/8388608
+Creating Buckets:3900000/8388608
+Creating Buckets:4000000/8388608
+Creating Buckets:4100000/8388608
+Creating Buckets:4200000/8388608
+Creating Buckets:4300000/8388608
+Creating Buckets:4400000/8388608
+Creating Buckets:4500000/8388608
+Creating Buckets:4600000/8388608
+Creating Buckets:4700000/8388608
+Creating Buckets:4800000/8388608
+Creating Buckets:4900000/8388608
+Creating Buckets:5000000/8388608
+Creating Buckets:5100000/8388608
+Creating Buckets:5200000/8388608
+Creating Buckets:5300000/8388608
+Creating Buckets:5400000/8388608
+Creating Buckets:5500000/8388608
+Creating Buckets:5600000/8388608
+Creating Buckets:5700000/8388608
+Creating Buckets:5800000/8388608
+Creating Buckets:5900000/8388608
+Creating Buckets:6000000/8388608
+Creating Buckets:6100000/8388608
+Creating Buckets:6200000/8388608
+Creating Buckets:6300000/8388608
+Creating Buckets:6400000/8388608
+Creating Buckets:6500000/8388608
+Creating Buckets:6600000/8388608
+Creating Buckets:6700000/8388608
+Creating Buckets:6800000/8388608
+Creating Buckets:6900000/8388608
+Creating Buckets:7000000/8388608
+Creating Buckets:7100000/8388608
+Creating Buckets:7200000/8388608
+Creating Buckets:7300000/8388608
+Creating Buckets:7400000/8388608
+Creating Buckets:7500000/8388608
+Creating Buckets:7600000/8388608
+Creating Buckets:7700000/8388608
+Creating Buckets:7800000/8388608
+Creating Buckets:7900000/8388608
+Creating Buckets:8000000/8388608
+Creating Buckets:8100000/8388608
+Creating Buckets:8200000/8388608
+Creating Buckets:8300000/8388608
+Adding Upper Levels Dummy Buckets:0/8388608
+Adding Upper Levels Dummy Buckets:100000/8388608
+Adding Upper Levels Dummy Buckets:200000/8388608
+Adding Upper Levels Dummy Buckets:300000/8388608
+Adding Upper Levels Dummy Buckets:400000/8388608
+Adding Upper Levels Dummy Buckets:500000/8388608
+Adding Upper Levels Dummy Buckets:600000/8388608
+Adding Upper Levels Dummy Buckets:700000/8388608
+Adding Upper Levels Dummy Buckets:800000/8388608
+Adding Upper Levels Dummy Buckets:900000/8388608
+Adding Upper Levels Dummy Buckets:1000000/8388608
+Adding Upper Levels Dummy Buckets:1100000/8388608
+Adding Upper Levels Dummy Buckets:1200000/8388608
+Adding Upper Levels Dummy Buckets:1300000/8388608
+Adding Upper Levels Dummy Buckets:1400000/8388608
+Adding Upper Levels Dummy Buckets:1500000/8388608
+Adding Upper Levels Dummy Buckets:1600000/8388608
+Adding Upper Levels Dummy Buckets:1700000/8388608
+Adding Upper Levels Dummy Buckets:1800000/8388608
+Adding Upper Levels Dummy Buckets:1900000/8388608
+Adding Upper Levels Dummy Buckets:2000000/8388608
+DORAM-init: 45284.000000
+Number of leaves:2097152
+depth:21
+block size is:128
+Initializing ORAM Buckets
+End of Initialization
+Average time of initialization: 46660.4
+Average time of searching a node: 33
+Average time of writing a node: 86.4

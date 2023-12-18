@@ -1,0 +1,88 @@
+Creating AVL Nodes from key-value pairs (w/ padding): 0.000000
+ Obliviously sort Nodes based on their keys: Creating BST of 203 Nodes: 0.000000
+Inserting in ORAM: 1.000000
+Number of leaves:2048
+depth:11
+block size is:128
+Initializing DORAM
+Setting Nodes Eviction ID
+Sorting
+Creating Buckets:0/8192
+Adding Upper Levels Dummy Buckets:0/8192
+DORAM-init: 25.000000
+Number of leaves:2048
+depth:11
+block size is:128
+Initializing ORAM Buckets
+End of Initialization
+Creating AVL Nodes from key-value pairs (w/ padding): 0.000000
+ Obliviously sort Nodes based on their keys: Creating BST of 203 Nodes: 0.000000
+Inserting in ORAM: 1.000000
+Number of leaves:2048
+depth:11
+block size is:128
+Initializing DORAM
+Setting Nodes Eviction ID
+Sorting
+Creating Buckets:0/8192
+Adding Upper Levels Dummy Buckets:0/8192
+DORAM-init: 24.000000
+Number of leaves:2048
+depth:11
+block size is:128
+Initializing ORAM Buckets
+End of Initialization
+Creating AVL Nodes from key-value pairs (w/ padding): 0.000000
+ Obliviously sort Nodes based on their keys: Creating BST of 203 Nodes: 0.000000
+Inserting in ORAM: 0.000000
+Number of leaves:2048
+depth:11
+block size is:128
+Initializing DORAM
+Setting Nodes Eviction ID
+Sorting
+Creating Buckets:0/8192
+Adding Upper Levels Dummy Buckets:0/8192
+DORAM-init: 22.000000
+Number of leaves:2048
+depth:11
+block size is:128
+Initializing ORAM Buckets
+End of Initialization
+Creating AVL Nodes from key-value pairs (w/ padding): 0.000000
+ Obliviously sort Nodes based on their keys: Creating BST of 203 Nodes: 0.000000
+Inserting in ORAM: 1.000000
+Number of leaves:2048
+depth:11
+block size is:128
+Initializing DORAM
+Setting Nodes Eviction ID
+Sorting
+Creating Buckets:0/8192
+Adding Upper Levels Dummy Buckets:0/8192
+DORAM-init: 22.000000
+Number of leaves:2048
+depth:11
+block size is:128
+Initializing ORAM Buckets
+End of Initialization
+Creating AVL Nodes from key-value pairs (w/ padding): 0.000000
+ Obliviously sort Nodes based on their keys: Creating BST of 203 Nodes: 0.000000
+Inserting in ORAM: 1.000000
+Number of leaves:2048
+depth:11
+block size is:128
+Initializing DORAM
+Setting Nodes Eviction ID
+Sorting
+Creating Buckets:0/8192
+Adding Upper Levels Dummy Buckets:0/8192
+DORAM-init: 22.000000
+Number of leaves:2048
+depth:11
+block size is:128
+Initializing ORAM Buckets
+End of Initialization
+Average time of initialization: 25
+Average time of searching a node: 9.2
+Average time of writing a node: 21.8

@@ -1,0 +1,148 @@
+Creating AVL Nodes from key-value pairs (w/ padding): 3.000000
+ Obliviously sort Nodes based on their keys: Creating BST of 26213 Nodes: 3.000000
+Inserting in ORAM: 256.000000
+Number of leaves:262144
+depth:18
+block size is:128
+Initializing DORAM
+Setting Nodes Eviction ID
+Sorting
+Creating Buckets:0/1048576
+Creating Buckets:100000/1048576
+Creating Buckets:200000/1048576
+Creating Buckets:300000/1048576
+Creating Buckets:400000/1048576
+Creating Buckets:500000/1048576
+Creating Buckets:600000/1048576
+Creating Buckets:700000/1048576
+Creating Buckets:800000/1048576
+Creating Buckets:900000/1048576
+Creating Buckets:1000000/1048576
+Adding Upper Levels Dummy Buckets:0/1048576
+Adding Upper Levels Dummy Buckets:100000/1048576
+Adding Upper Levels Dummy Buckets:200000/1048576
+DORAM-init: 4381.000000
+Number of leaves:262144
+depth:18
+block size is:128
+Initializing ORAM Buckets
+End of Initialization
+Creating AVL Nodes from key-value pairs (w/ padding): 2.000000
+ Obliviously sort Nodes based on their keys: Creating BST of 26213 Nodes: 6.000000
+Inserting in ORAM: 253.000000
+Number of leaves:262144
+depth:18
+block size is:128
+Initializing DORAM
+Setting Nodes Eviction ID
+Sorting
+Creating Buckets:0/1048576
+Creating Buckets:100000/1048576
+Creating Buckets:200000/1048576
+Creating Buckets:300000/1048576
+Creating Buckets:400000/1048576
+Creating Buckets:500000/1048576
+Creating Buckets:600000/1048576
+Creating Buckets:700000/1048576
+Creating Buckets:800000/1048576
+Creating Buckets:900000/1048576
+Creating Buckets:1000000/1048576
+Adding Upper Levels Dummy Buckets:0/1048576
+Adding Upper Levels Dummy Buckets:100000/1048576
+Adding Upper Levels Dummy Buckets:200000/1048576
+DORAM-init: 4203.000000
+Number of leaves:262144
+depth:18
+block size is:128
+Initializing ORAM Buckets
+End of Initialization
+Creating AVL Nodes from key-value pairs (w/ padding): 4.000000
+ Obliviously sort Nodes based on their keys: Creating BST of 26213 Nodes: 26.000000
+Inserting in ORAM: 253.000000
+Number of leaves:262144
+depth:18
+block size is:128
+Initializing DORAM
+Setting Nodes Eviction ID
+Sorting
+Creating Buckets:0/1048576
+Creating Buckets:100000/1048576
+Creating Buckets:200000/1048576
+Creating Buckets:300000/1048576
+Creating Buckets:400000/1048576
+Creating Buckets:500000/1048576
+Creating Buckets:600000/1048576
+Creating Buckets:700000/1048576
+Creating Buckets:800000/1048576
+Creating Buckets:900000/1048576
+Creating Buckets:1000000/1048576
+Adding Upper Levels Dummy Buckets:0/1048576
+Adding Upper Levels Dummy Buckets:100000/1048576
+Adding Upper Levels Dummy Buckets:200000/1048576
+DORAM-init: 4665.000000
+Number of leaves:262144
+depth:18
+block size is:128
+Initializing ORAM Buckets
+End of Initialization
+Creating AVL Nodes from key-value pairs (w/ padding): 5.000000
+ Obliviously sort Nodes based on their keys: Creating BST of 26213 Nodes: 37.000000
+Inserting in ORAM: 268.000000
+Number of leaves:262144
+depth:18
+block size is:128
+Initializing DORAM
+Setting Nodes Eviction ID
+Sorting
+Creating Buckets:0/1048576
+Creating Buckets:100000/1048576
+Creating Buckets:200000/1048576
+Creating Buckets:300000/1048576
+Creating Buckets:400000/1048576
+Creating Buckets:500000/1048576
+Creating Buckets:600000/1048576
+Creating Buckets:700000/1048576
+Creating Buckets:800000/1048576
+Creating Buckets:900000/1048576
+Creating Buckets:1000000/1048576
+Adding Upper Levels Dummy Buckets:0/1048576
+Adding Upper Levels Dummy Buckets:100000/1048576
+Adding Upper Levels Dummy Buckets:200000/1048576
+DORAM-init: 4785.000000
+Number of leaves:262144
+depth:18
+block size is:128
+Initializing ORAM Buckets
+End of Initialization
+Creating AVL Nodes from key-value pairs (w/ padding): 6.000000
+ Obliviously sort Nodes based on their keys: Creating BST of 26213 Nodes: 37.000000
+Inserting in ORAM: 256.000000
+Number of leaves:262144
+depth:18
+block size is:128
+Initializing DORAM
+Setting Nodes Eviction ID
+Sorting
+Creating Buckets:0/1048576
+Creating Buckets:100000/1048576
+Creating Buckets:200000/1048576
+Creating Buckets:300000/1048576
+Creating Buckets:400000/1048576
+Creating Buckets:500000/1048576
+Creating Buckets:600000/1048576
+Creating Buckets:700000/1048576
+Creating Buckets:800000/1048576
+Creating Buckets:900000/1048576
+Creating Buckets:1000000/1048576
+Adding Upper Levels Dummy Buckets:0/1048576
+Adding Upper Levels Dummy Buckets:100000/1048576
+Adding Upper Levels Dummy Buckets:200000/1048576
+DORAM-init: 4539.000000
+Number of leaves:262144
+depth:18
+block size is:128
+Initializing ORAM Buckets
+End of Initialization
+Average time of initialization: 4866.8
+Average time of searching a node: 24.4
+Average time of writing a node: 64.2
