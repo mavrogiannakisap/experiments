@@ -1,0 +1,73 @@
+Creating BST of 101 Nodes
+Inserting in ORAM
+Number of leaves:1024
+depth:10
+block size is:128
+Setting Nodes Eviction ID
+Sorting
+Creating Buckets
+Adding Upper Levels Dummy Buckets
+Number of leaves:1024
+depth:10
+block size is:128
+Initializing ORAM Buckets
+End of Initialization
+Creating BST of 101 Nodes
+Inserting in ORAM
+Number of leaves:1024
+depth:10
+block size is:128
+Setting Nodes Eviction ID
+Sorting
+Creating Buckets
+Adding Upper Levels Dummy Buckets
+Number of leaves:1024
+depth:10
+block size is:128
+Initializing ORAM Buckets
+End of Initialization
+Creating BST of 101 Nodes
+Inserting in ORAM
+Number of leaves:1024
+depth:10
+block size is:128
+Setting Nodes Eviction ID
+Sorting
+Creating Buckets
+Adding Upper Levels Dummy Buckets
+Number of leaves:1024
+depth:10
+block size is:128
+Initializing ORAM Buckets
+End of Initialization
+Creating BST of 101 Nodes
+Inserting in ORAM
+Number of leaves:1024
+depth:10
+block size is:128
+Setting Nodes Eviction ID
+Sorting
+Creating Buckets
+Adding Upper Levels Dummy Buckets
+Number of leaves:1024
+depth:10
+block size is:128
+Initializing ORAM Buckets
+End of Initialization
+Creating BST of 101 Nodes
+Inserting in ORAM
+Number of leaves:1024
+depth:10
+block size is:128
+Setting Nodes Eviction ID
+Sorting
+Creating Buckets
+Adding Upper Levels Dummy Buckets
+Number of leaves:1024
+depth:10
+block size is:128
+Initializing ORAM Buckets
+End of Initialization
+Average time of initialization: 11.8
+Average time of searching a node: 7.8
+Average time of writing a node: 7
